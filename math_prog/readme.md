@@ -6,7 +6,8 @@
 * CLP (CBC)
 * GLOP
 * Apache Commons Math
-
+* Gurobi
+* CPLEX
 
 ## IP Solvers
 
